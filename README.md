@@ -1,1 +1,2 @@
-# Git_Learning
+Git learning
+This is my first repo
